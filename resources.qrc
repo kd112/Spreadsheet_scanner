@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/SPREADSHEET" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
